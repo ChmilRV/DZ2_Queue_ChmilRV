@@ -59,7 +59,7 @@ namespace DZ2_Queue_ChmilRV
 
 				// Let the service know we're finished with the message and
 				// it can be safely deleted.
-				await queueClient.DeleteMessageAsync(message.MessageId, message.PopReceipt);
+				//await queueClient.DeleteMessageAsync(message.MessageId, message.PopReceipt);
 			}
 		}
 
