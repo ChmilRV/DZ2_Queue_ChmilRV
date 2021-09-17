@@ -1,0 +1,4 @@
+{
+  "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=chmilrv;AccountKey=5DmkYGqMzxdV6MFUjoyNdm/f4cvcNNSoYX6aZgnCC8+BieO7wKwcBUwNQkOGvNFG3uCv5IpimOqMaVS0lNUwSg==;EndpointSuffix=core.windows.net",
+  "QueueName": "myazure-queue-chmilrv"
+}
